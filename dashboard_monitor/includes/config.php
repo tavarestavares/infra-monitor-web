@@ -1,8 +1,8 @@
 <?php
 // Configuração do banco de dados
-define('DB_HOST', '10.10.110.64');
-define('DB_USER', 'root');
-define('DB_PASS', 'web');
+define('DB_HOST', 'localhost');
+define('DB_USER', 'user');
+define('DB_PASS', 'senha');
 define('DB_NAME', 'monitor_dashboard');
 
 // Configurações gerais
