@@ -47,13 +47,14 @@ Um dashboard completo para monitoramento de infraestrutura que permite acompanha
 
 ### Dashboard Principal
 Interface principal mostrando serviços online e offline com contadores em tempo real.
-
+![Tela inicial](Screenshots/index.png)
 ### Modal de Configuração
 Sistema de adição e edição de serviços com campos adaptativos.
-
+![Tela de adição](Screenshots/add.png)
 ### Alertas Visuais
 Indicadores de status com animações para serviços offline.
-
+![Descrição da imagem](Screenshots/Screenshot_1.png)
+![Status](Screenshots/status.png)
 ## Requisitos
 
 - PHP 7.4 ou superior
