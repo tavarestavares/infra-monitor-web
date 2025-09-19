@@ -20,7 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Banco de dados: `monitor_dashboard`
 --
-
+CREATE DATABASE IF NOT EXISTS monitor_dashboard;
+USE monitor_dashboard;
 -- --------------------------------------------------------
 
 --
